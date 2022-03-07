@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: yellow;
+}
+
+.border{
+    border-style: dashed;
+    height: 50px;
+    text-align: center;
+    width: 470px;  
+    margin: auto;
+}
+
+#clrbrdr{
+    background-color: lightgreen;
+}
+#clrbrdr2{
+    background-color: palevioletred;
+}
+
+#par1{
+    font-size: 20px;
+    text-align: justify;
+}
+
